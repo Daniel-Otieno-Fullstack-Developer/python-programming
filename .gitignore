@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Files the File Handling tasks create when they run
+class_list.txt
+fee_report.txt
